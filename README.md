@@ -1,4 +1,4 @@
-# Laravel 8 過濾 Eloquent 模型資料以建立或更新資料表記錄
+# Laravel 10 過濾 Eloquent 模型資料以建立或更新資料表記錄
 
 引入 touhidurabir 的 laravel-model-sanitize 套件來擴增過濾 Eloquent 模型資料以建立或更新資料表記錄，將傳遞的屬性過濾為正確的模型填充。
 
@@ -27,5 +27,5 @@ $ php artisan migrate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/0VvwNTR.png)
+![](https://i.imgur.com/gF76uvZ.png)
 > 註冊後建立資料表記錄並登入
